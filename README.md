@@ -1,6 +1,6 @@
 # Intro to python 
 
-The repository is meant as a refreshment for the self-study students did for the Workshop 1 for the [UNIGIS master program](https://vu.nl/en/education/master/geographical-information-sciences) in July 2024. 
+The repository is meant as a refreshment for the self-study students did for the Workshop 1 for the [UNIGIS master program](https://vu.nl/en/education/master/geographical-information-sciences). 
 
 We browse go through some highlights from the [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/index.html) lessons.
 
